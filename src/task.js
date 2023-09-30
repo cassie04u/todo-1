@@ -1,4 +1,4 @@
-import { taskLists, textInput } from "./selectors";
+import { taskLists, textInput } from "./app/selectors";
 
 const tasks = [];
 
